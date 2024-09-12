@@ -49,3 +49,4 @@ My journey in computer science and my years of experience working as Technical S
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- 30 Day MYDFIR SOC Analyst Challenge
