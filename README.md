@@ -1,4 +1,4 @@
-## Hello, I'm Kelvin
+# Hello, I'm Kelvin
 <a href="www.linkedin.com/in/kjohnsn"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am Passionate about cybersecurity and dedicated to protecting digital landscapes. I am an aspiring Security/SOC Analyst with a strong foundation in threat detection, incident response, and security monitoring. I am eager to collaborate, learn, and contribute to open-source projects that advance cybersecurity capabilities. 
